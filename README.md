@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@Y.BGamer110">
-    <img alt="SULTAN docs" height="300" src="https://telegra.ph/file/4c6df8243017a1f7e7890.jpg">
+    <img alt="SULTAN docs" height="300" src="https://telegra.ph/file/IMG_20240101_133420.jpg">
   </a>
 </p>
     
