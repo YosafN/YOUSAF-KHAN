@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@Y.BGamer110">
-    <img alt="Yousaf docs" height="300" src="https://telegra.ph/file/4c6df8243017a1f7e7890.jpg">
+    <img alt="Yousaf docs" height="300" src="https://telegra.ph/file/4c6df8243017a1f7e890.jpg">
   </a>
 </p>
     
